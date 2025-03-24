@@ -1,4 +1,4 @@
-# 🎲 A tiny JS module for random strings
+# A tiny JS module for random strings
 
 Generates random strings with digits, special chars, and Russian/English letters.
 
