@@ -5,8 +5,7 @@ Generates random strings with digits, special chars, and Russian/English letters
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/mramornov164/smart-srt-gen.git
-cd smart-srt-gen
+git clone https://github.com/mramornov164/smart-str-gen.git
 ```
 
 ## 🔧 Usage
